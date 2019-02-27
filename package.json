@@ -17,7 +17,10 @@
   },
   "homepage": "https://github.com/CodingAvenue/codestop-proof-lib-dom#readme",
   "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
     "codestop-css-proof": "^1.0.8",
-    "codestop-js-proof": "^1.0.0"
+    "codestop-js-proof": "^1.0.1",
+    "tmp": "0.0.33",
+    "tmp-promise": "^1.0.5"
   }
 }
