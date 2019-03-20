@@ -1,6 +1,6 @@
 {
   "name": "codestop-dom-proof",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -19,7 +19,7 @@
   "dependencies": {
     "cheerio": "^1.0.0-rc.2",
     "codestop-css-proof": "^1.0.8",
-    "codestop-js-proof": "^1.0.1",
+    "codestop-js-proof": "^1.0.2",
     "tmp": "0.0.33",
     "tmp-promise": "^1.0.5"
   }
