@@ -1,6 +1,6 @@
 {
   "name": "codestop-dom-proof",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -18,7 +18,7 @@
   "homepage": "https://github.com/CodingAvenue/codestop-proof-lib-dom#readme",
   "dependencies": {
     "cheerio": "^1.0.0-rc.2",
-    "codestop-css-proof": "^1.0.12",
+    "codestop-css-proof": "^1.0.13",
     "codestop-js-proof": "^1.0",
     "tmp": "0.0.33",
     "tmp-promise": "^1.0.5"
